@@ -1,20 +1,15 @@
-﻿生成启动时间为 2022/7/17 17:35:11。
+﻿生成启动时间为 2022/7/17 17:43:44。
      1>项目“I:\visual studio 2015Projects\systemblack\systemblack\systemblack.vcxproj”在节点 2 上(Build 个目标)。
-     1>ClCompile:
-         I:\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /GL /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"x64\Release\systemblack.pch" /Fo"x64\Release\\" /Fd"x64\Release\vc140.pdb" /Gd /TP /errorReport:prompt systemblack.cpp
-         systemblack.cpp
-       Link:
+     1>Link:
          I:\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"I:\visual studio 2015Projects\systemblack\x64\Release\systemblack.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"I:\visual studio 2015Projects\systemblack\x64\Release\systemblack.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"I:\visual studio 2015Projects\systemblack\x64\Release\systemblack.lib" /MACHINE:X64 x64\Release\systemblack.res
          x64\Release\stdafx.obj
          x64\Release\systemblack.obj
          正在生成代码
-         1 of 1 functions (100.0%) were compiled, the rest were copied from previous compilation.
-           0 functions were new in current compilation
-           0 functions had inline decision re-evaluated but remain unchanged
+         All 1 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
          已完成代码的生成
          systemblack.vcxproj -> I:\visual studio 2015Projects\systemblack\x64\Release\systemblack.exe
      1>已完成生成项目“I:\visual studio 2015Projects\systemblack\systemblack\systemblack.vcxproj”(Build 个目标)的操作。
 
 已成功生成。
 
-已用时间 00:00:01.80
+已用时间 00:00:01.28
